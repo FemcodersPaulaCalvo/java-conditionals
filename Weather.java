@@ -28,5 +28,6 @@ public class Weather {
             System.out.println("No one lives there");
         }
 
+        scanner.close();
     }
 }
